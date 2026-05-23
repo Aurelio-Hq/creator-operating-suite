@@ -47,6 +47,18 @@ The value is not in one prompt or one skill. The value is in a repeatable operat
 
 Draft public starter. Commercial product spine: **PersonalizationOS**.
 
+## Demo Pública
+
+Não é um prompt pack. É um sistema operacional de trabalho para criadores não-devs usarem Claude com contexto, workflows, decisões e entregas consistentes.
+
+Assista à nossa demo de 2 minutos para ver o Creator Operating Suite em ação:
+
+[Link para o Vídeo da Demo (YouTube/Loom/LinkedIn)]
+
+### Screenshots
+
+<!-- Adicione aqui screenshots do workflow e outputs -->
+
 ## License
 
 MIT. See `LICENSE`.
